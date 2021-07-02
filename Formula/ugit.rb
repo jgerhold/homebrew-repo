@@ -4,9 +4,9 @@
 class Ugit < Formula
   desc ""
   homepage "https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit/"
-  url "https://github.com/Bhupesh-V/ugit/archive/refs/tags/v1.0.tar.gz"
+  url "https://github.com/Bhupesh-V/ugit/archive/refs/tags/v3.0.tar.gz"
   version "1.0"
-  sha256 "83654652f447e9c7252c431fcf76cc78c12b1f8af2bfda9bf759f489c18ca713"
+  sha256 "0bbc789d6a6bcefb5e0438612c48cc20d1e458ea5c5ce52e21cfa5c96459aa02"
   license "MIT License"
 
   # depends_on "cmake" => :build
