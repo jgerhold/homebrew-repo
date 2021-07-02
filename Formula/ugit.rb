@@ -5,7 +5,7 @@ class Ugit < Formula
   desc ""
   homepage "https://bhupesh-v.github.io/undo-your-last-git-mistake-with-ugit/"
   url "https://github.com/Bhupesh-V/ugit/archive/refs/tags/v3.0.tar.gz"
-  version "1.0"
+  version "3.0"
   sha256 "0bbc789d6a6bcefb5e0438612c48cc20d1e458ea5c5ce52e21cfa5c96459aa02"
   license "MIT License"
 
